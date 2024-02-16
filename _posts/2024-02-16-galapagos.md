@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Galápagos Islands
+title: Galapagos Islands
 date: 2024-02-16
 lang: English
 tagline: A Journey into the Unique Biodiversity of the Galápagos
